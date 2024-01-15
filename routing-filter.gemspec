@@ -1,7 +1,7 @@
 $:.unshift File.expand_path('../lib', __FILE__)
 require 'routing_filter/version'
 
-rails_version = ['>= 6.1']
+rails_version = ['>= 7.1']
 
 Gem::Specification.new do |s|
   s.name         = "routing-filter"
@@ -16,7 +16,6 @@ Gem::Specification.new do |s|
   s.files        = Dir['CHANGELOG.md', 'README.markdown', 'MIT-LICENSE', 'lib/**/*']
   s.platform     = Gem::Platform::RUBY
   s.require_path = 'lib'
-  s.rubyforge_project = '[none]'
   s.required_ruby_version = '>= 2.0'
 
   s.add_dependency 'actionpack', rails_version
