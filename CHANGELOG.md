@@ -1,3 +1,11 @@
+## 0.7.1
+
+* Rails 7.1 exclusive support (by Codeur)
+
+## 0.7.0
+
+* Rails 6.1 exclusive support
+
 ## 0.6.3
 
 * Rails 6.0 support
