@@ -1,3 +1,7 @@
+## 0.8.0
+
+* Rails 8.1 exclusive support (by Codeur)
+
 ## 0.7.1
 
 * Rails 7.1 exclusive support (by Codeur)
